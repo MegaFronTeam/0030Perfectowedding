@@ -1,0 +1,2656 @@
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,300italic,400italic,700,300&subset=latin,cyrillic
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\css
+Content Type: text/css
+
+Uri: https://perfectowedding.ru/
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\index.htm
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/android-chrome-192x192.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\android-chrome-192x192.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/apple-touch-icon-114x114.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/apple-touch-icon-120x120.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/apple-touch-icon-144x144.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/apple-touch-icon-152x152.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/apple-touch-icon-180x180.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/apple-touch-icon-57x57.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/apple-touch-icon-60x60.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\apple-touch-icon-60x60.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/apple-touch-icon-72x72.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/apple-touch-icon-76x76.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/assets/components/ajaxform/css/default.css
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\assets\components\ajaxform\css\default.css
+Content Type: text/css
+
+Uri: https://perfectowedding.ru/assets/components/ajaxform/css/lib/jquery.jgrowl.min.css
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\assets\components\ajaxform\css\lib\jquery.jgrowl.min.css
+Content Type: text/css
+
+Uri: https://perfectowedding.ru/assets/components/ajaxform/js/default.js
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\assets\components\ajaxform\js\default.js
+Content Type: application/javascript
+
+Uri: https://perfectowedding.ru/budget
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\budget.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/favicon-16x16.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/favicon-32x32.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/favicon-96x96.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/images/logo_black.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\logo_black.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/images/logo_m.png?390x260_20210227
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\logo_m.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/images/logo_mobile.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\logo_mobile.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/images/logo_white.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\logo_white.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-103.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-103.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-107.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-107.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-110.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-110.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-133.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-133.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-152.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-152.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-167.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-167.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksander-and-natalya/00wed-5380.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksander-and-natalya\00wed-5380.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksander-and-natalya/00wed-5400.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksander-and-natalya\00wed-5400.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksander-and-natalya/00wed-5410.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksander-and-natalya\00wed-5410.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksander-and-natalya/00wed-5416.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksander-and-natalya\00wed-5416.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksander-and-natalya/00wed-5418.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksander-and-natalya\00wed-5418.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksander-and-natalya/00wed-5419.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksander-and-natalya\00wed-5419.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksandr-and-ekaterina/0000000006.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksandr-and-ekaterina\0000000006.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksandr-and-ekaterina/0000000009.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksandr-and-ekaterina\0000000009.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksandr-and-ekaterina/0000000019.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksandr-and-ekaterina\0000000019.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksandr-and-ekaterina/0000000022.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksandr-and-ekaterina\0000000022.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksandr-and-ekaterina/0000000029.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksandr-and-ekaterina\0000000029.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksandr-and-ekaterina/0000000036.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksandr-and-ekaterina\0000000036.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksandr-and-kristina/0000000003.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksandr-and-kristina\0000000003.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksandr-and-kristina/0000000009.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksandr-and-kristina\0000000009.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksandr-and-kristina/0000000020.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksandr-and-kristina\0000000020.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksandr-and-kristina/0000000030.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksandr-and-kristina\0000000030.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksandr-and-kristina/0000000034.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksandr-and-kristina\0000000034.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksandr-and-kristina/0000000036.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksandr-and-kristina\0000000036.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksey-and-kseniya/00000003-5.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksey-and-kseniya\00000003-5.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksey-and-kseniya/00000005-2.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksey-and-kseniya\00000005-2.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksey-and-kseniya/00000005-4.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksey-and-kseniya\00000005-4.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksey-and-kseniya/00000005-6.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksey-and-kseniya\00000005-6.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksey-and-kseniya/0000003-10.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksey-and-kseniya\0000003-10.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/aleksey-and-kseniya/0000003-11.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\aleksey-and-kseniya\0000003-11.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alena-and-ivan/alena-ivan_wedding-0003.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alena-and-ivan\alena-ivan_wedding-0003.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alena-and-ivan/alena-ivan_wedding-0004.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alena-and-ivan\alena-ivan_wedding-0004.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alena-and-ivan/alena-ivan_wedding-0005.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alena-and-ivan\alena-ivan_wedding-0005.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alena-and-ivan/alena-ivan_wedding-0009.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alena-and-ivan\alena-ivan_wedding-0009.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alena-and-ivan/alena-ivan_wedding-0015.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alena-and-ivan\alena-ivan_wedding-0015.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alena-and-ivan/alena-ivan_wedding-0016.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alena-and-ivan\alena-ivan_wedding-0016.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexander-and-nadya/wedding-20180908-002.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexander-and-nadya\wedding-20180908-002.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexander-and-nadya/wedding-20180908-004.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexander-and-nadya\wedding-20180908-004.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexander-and-nadya/wedding-20180908-008.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexander-and-nadya\wedding-20180908-008.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexander-and-nadya/wedding-20180908-010.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexander-and-nadya\wedding-20180908-010.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexander-and-nadya/wedding-20180908-014.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexander-and-nadya\wedding-20180908-014.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexander-and-nadya/wedding-20180908-018.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexander-and-nadya\wedding-20180908-018.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexander-and-veronika/v-a_for-web-15.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexander-and-veronika\v-a_for-web-15.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexander-and-veronika/v-a_for-web-16.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexander-and-veronika\v-a_for-web-16.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexander-and-veronika/v-a_for-web-17.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexander-and-veronika\v-a_for-web-17.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexander-and-veronika/v-a_for-web-18.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexander-and-veronika\v-a_for-web-18.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexander-and-veronika/v-a_for-web-22.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexander-and-veronika\v-a_for-web-22.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexander-and-veronika/v-a_for-web-27.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexander-and-veronika\v-a_for-web-27.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexey-and-alena/0000w-6173.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexey-and-alena\0000w-6173.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexey-and-alena/0000w-6210.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexey-and-alena\0000w-6210.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexey-and-alena/0000w-6230.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexey-and-alena\0000w-6230.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexey-and-alena/0000w-6239.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexey-and-alena\0000w-6239.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexey-and-alena/0000w-6266.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexey-and-alena\0000w-6266.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alexey-and-alena/0000w-6275.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alexey-and-alena\0000w-6275.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alisa-and-georgiy/00wed-0036.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alisa-and-georgiy\00wed-0036.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alisa-and-georgiy/00wed-0037.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alisa-and-georgiy\00wed-0037.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alisa-and-georgiy/00wed-0047.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alisa-and-georgiy\00wed-0047.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alisa-and-georgiy/00wed-0048.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alisa-and-georgiy\00wed-0048.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alisa-and-georgiy/00wed-0056.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alisa-and-georgiy\00wed-0056.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/alisa-and-georgiy/00wed-0065.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\alisa-and-georgiy\00wed-0065.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anastasia-and-sergey/20190907_002.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anastasia-and-sergey\20190907_002.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anastasia-and-sergey/20190907_003.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anastasia-and-sergey\20190907_003.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anastasia-and-sergey/20190907_006.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anastasia-and-sergey\20190907_006.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anastasia-and-sergey/20190907_007.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anastasia-and-sergey\20190907_007.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anastasia-and-sergey/20190907_008.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anastasia-and-sergey\20190907_008.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anastasia-and-sergey/20190907_009.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anastasia-and-sergey\20190907_009.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anna-and-ainur/0000000001.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anna-and-ainur\0000000001.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anna-and-ainur/0000000004.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anna-and-ainur\0000000004.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anna-and-ainur/0000000008.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anna-and-ainur\0000000008.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anna-and-ainur/0000000019.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anna-and-ainur\0000000019.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anna-and-ainur/0000000022.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anna-and-ainur\0000000022.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anna-and-ainur/0000000034.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anna-and-ainur\0000000034.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anna-and-valeriy/0000000006.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anna-and-valeriy\0000000006.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anna-and-valeriy/0000000016.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anna-and-valeriy\0000000016.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anna-and-valeriy/0000000018.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anna-and-valeriy\0000000018.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anna-and-valeriy/0000000029.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anna-and-valeriy\0000000029.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anna-and-valeriy/0000000048.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anna-and-valeriy\0000000048.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anna-and-valeriy/0000000054.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anna-and-valeriy\0000000054.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anton-and-alexandra/photo-0008.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anton-and-alexandra\photo-0008.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anton-and-alexandra/photo-0027.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anton-and-alexandra\photo-0027.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anton-and-alexandra/photo-0048.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anton-and-alexandra\photo-0048.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anton-and-alexandra/photo-0053.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anton-and-alexandra\photo-0053.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anton-and-alexandra/photo-0063.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anton-and-alexandra\photo-0063.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/anton-and-alexandra/photo-0068.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\anton-and-alexandra\photo-0068.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0001.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0001.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0003.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0003.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0005.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0005.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0008.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0008.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0016.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0016.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0019.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0019.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/danil-and-irina/0000000008.06-102.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\danil-and-irina\0000000008.06-102.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/danil-and-irina/0000000008.06-107.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\danil-and-irina\0000000008.06-107.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/danil-and-irina/0000000008.06-108.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\danil-and-irina\0000000008.06-108.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/danil-and-irina/0000000008.06-116.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\danil-and-irina\0000000008.06-116.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/danil-and-irina/0000000008.06-118.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\danil-and-irina\0000000008.06-118.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/danil-and-irina/0000000008.06-120.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\danil-and-irina\0000000008.06-120.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dariya-and-ilya/0000000003.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dariya-and-ilya\0000000003.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dariya-and-ilya/0000000007.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dariya-and-ilya\0000000007.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dariya-and-ilya/0000000013.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dariya-and-ilya\0000000013.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dariya-and-ilya/0000000018.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dariya-and-ilya\0000000018.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dariya-and-ilya/0000000023.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dariya-and-ilya\0000000023.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dariya-and-ilya/0000000028.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dariya-and-ilya\0000000028.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/darya-and-nikolay/00000099-1.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\darya-and-nikolay\00000099-1.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/darya-and-nikolay/00000099-4.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\darya-and-nikolay\00000099-4.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/darya-and-nikolay/00000099-6.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\darya-and-nikolay\00000099-6.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/darya-and-nikolay/00000099-8.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\darya-and-nikolay\00000099-8.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/darya-and-nikolay/0000099-28.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\darya-and-nikolay\0000099-28.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/darya-and-nikolay/0000099-31.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\darya-and-nikolay\0000099-31.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/denis-and-victoria/000bw-5238.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\denis-and-victoria\000bw-5238.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/denis-and-victoria/000bw-5239.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\denis-and-victoria\000bw-5239.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/denis-and-victoria/000bw-5255.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\denis-and-victoria\000bw-5255.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/denis-and-victoria/000bw-5257.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\denis-and-victoria\000bw-5257.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/denis-and-victoria/000bw-5259.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\denis-and-victoria\000bw-5259.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/denis-and-victoria/000bw-5260.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\denis-and-victoria\000bw-5260.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dmitriy-and-anna/0000000002.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dmitriy-and-anna\0000000002.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dmitriy-and-anna/0000000003.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dmitriy-and-anna\0000000003.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dmitriy-and-anna/0000000031.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dmitriy-and-anna\0000000031.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dmitriy-and-anna/0000000032.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dmitriy-and-anna\0000000032.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dmitriy-and-anna/0000000034.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dmitriy-and-anna\0000000034.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dmitriy-and-anna/0000000035.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dmitriy-and-anna\0000000035.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dmitriy-and-olga/002pme4995.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dmitriy-and-olga\002pme4995.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dmitriy-and-olga/002pme5266.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dmitriy-and-olga\002pme5266.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dmitriy-and-olga/002pme5347.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dmitriy-and-olga\002pme5347.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dmitriy-and-olga/002pme5459.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dmitriy-and-olga\002pme5459.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dmitriy-and-olga/002pme5900.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dmitriy-and-olga\002pme5900.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/dmitriy-and-olga/002pme5977.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\dmitriy-and-olga\002pme5977.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/egor-and-polina/000wed0002.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\egor-and-polina\000wed0002.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/egor-and-polina/000wed0009.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\egor-and-polina\000wed0009.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/egor-and-polina/000wed0013.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\egor-and-polina\000wed0013.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/egor-and-polina/000wed0029.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\egor-and-polina\000wed0029.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/egor-and-polina/000wed0035.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\egor-and-polina\000wed0035.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/egor-and-polina/000wed0041.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\egor-and-polina\000wed0041.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ekaterina-and-gleb/00000001-4.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ekaterina-and-gleb\00000001-4.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ekaterina-and-gleb/0000001-23.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ekaterina-and-gleb\0000001-23.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ekaterina-and-gleb/0000001-36.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ekaterina-and-gleb\0000001-36.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ekaterina-and-gleb/0000001-39.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ekaterina-and-gleb\0000001-39.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ekaterina-and-gleb/0000001-46.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ekaterina-and-gleb\0000001-46.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ekaterina-and-gleb/0000001-51.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ekaterina-and-gleb\0000001-51.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ekaterina-and-konstantin/0000000007.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ekaterina-and-konstantin\0000000007.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ekaterina-and-konstantin/0000000008.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ekaterina-and-konstantin\0000000008.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ekaterina-and-konstantin/0000000011.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ekaterina-and-konstantin\0000000011.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ekaterina-and-konstantin/0000000013.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ekaterina-and-konstantin\0000000013.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ekaterina-and-konstantin/0000000017.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ekaterina-and-konstantin\0000000017.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ekaterina-and-konstantin/0000000018.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ekaterina-and-konstantin\0000000018.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/evgeniy-and-anastasiya/0000000138.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\evgeniy-and-anastasiya\0000000138.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/evgeniy-and-anastasiya/0000000147.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\evgeniy-and-anastasiya\0000000147.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/evgeniy-and-anastasiya/0000000150.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\evgeniy-and-anastasiya\0000000150.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/evgeniy-and-anastasiya/0000000155.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\evgeniy-and-anastasiya\0000000155.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/evgeniy-and-anastasiya/0000000156.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\evgeniy-and-anastasiya\0000000156.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/evgeniy-and-anastasiya/0000000161.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\evgeniy-and-anastasiya\0000000161.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/inessa-and-aleksandr/0000000004.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\inessa-and-aleksandr\0000000004.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/inessa-and-aleksandr/0000000009.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\inessa-and-aleksandr\0000000009.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/inessa-and-aleksandr/0000000016.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\inessa-and-aleksandr\0000000016.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/inessa-and-aleksandr/0000000022.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\inessa-and-aleksandr\0000000022.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/inessa-and-aleksandr/0000000034.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\inessa-and-aleksandr\0000000034.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/inessa-and-aleksandr/0000000040.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\inessa-and-aleksandr\0000000040.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/inna-and-kostya/i-k-wedding-100.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\inna-and-kostya\i-k-wedding-100.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/inna-and-kostya/i-k-wedding-12.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\inna-and-kostya\i-k-wedding-12.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/inna-and-kostya/i-k-wedding-131.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\inna-and-kostya\i-k-wedding-131.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/inna-and-kostya/i-k-wedding-133.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\inna-and-kostya\i-k-wedding-133.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/inna-and-kostya/i-k-wedding-137.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\inna-and-kostya\i-k-wedding-137.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/inna-and-kostya/i-k-wedding-138.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\inna-and-kostya\i-k-wedding-138.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/julia-and-artur/20191207_001.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\julia-and-artur\20191207_001.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/julia-and-artur/20191207_006.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\julia-and-artur\20191207_006.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/julia-and-artur/20191207_012.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\julia-and-artur\20191207_012.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/julia-and-artur/20191207_017.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\julia-and-artur\20191207_017.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/julia-and-artur/20191207_022.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\julia-and-artur\20191207_022.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/julia-and-artur/20191207_032.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\julia-and-artur\20191207_032.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/julya-and-genya/photo-00035.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\julya-and-genya\photo-00035.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/julya-and-genya/photo-00038.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\julya-and-genya\photo-00038.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/julya-and-genya/photo-00041.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\julya-and-genya\photo-00041.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/julya-and-genya/photo-00046.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\julya-and-genya\photo-00046.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/julya-and-genya/photo-00058.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\julya-and-genya\photo-00058.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/julya-and-genya/photo-00064.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\julya-and-genya\photo-00064.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/maksim-and-tatiana/000000m-t1.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\maksim-and-tatiana\000000m-t1.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/maksim-and-tatiana/000000m-t5.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\maksim-and-tatiana\000000m-t5.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/maksim-and-tatiana/00000m-t10.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\maksim-and-tatiana\00000m-t10.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/maksim-and-tatiana/00000m-t12.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\maksim-and-tatiana\00000m-t12.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/maksim-and-tatiana/00000m-t19.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\maksim-and-tatiana\00000m-t19.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/maksim-and-tatiana/00000m-t20.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\maksim-and-tatiana\00000m-t20.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/masha-and-sasha/0000001-70.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\masha-and-sasha\0000001-70.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/masha-and-sasha/0000001-72.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\masha-and-sasha\0000001-72.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/masha-and-sasha/0000001-73.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\masha-and-sasha\0000001-73.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/masha-and-sasha/0000001-74.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\masha-and-sasha\0000001-74.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/masha-and-sasha/0000001-78.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\masha-and-sasha\0000001-78.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/masha-and-sasha/0000001-81.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\masha-and-sasha\0000001-81.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/nastya-and-maksim/0000000001.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\nastya-and-maksim\0000000001.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/nastya-and-maksim/0000000002.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\nastya-and-maksim\0000000002.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/nastya-and-maksim/0000000006.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\nastya-and-maksim\0000000006.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/nastya-and-maksim/0000000019.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\nastya-and-maksim\0000000019.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/nastya-and-maksim/0000000025.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\nastya-and-maksim\0000000025.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/nastya-and-maksim/0000000028.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\nastya-and-maksim\0000000028.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/nastya-and-sasha/wed-15080009.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\nastya-and-sasha\wed-15080009.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/nastya-and-sasha/wed-15080013.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\nastya-and-sasha\wed-15080013.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/nastya-and-sasha/wed-15080017.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\nastya-and-sasha\wed-15080017.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/nastya-and-sasha/wed-15080043.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\nastya-and-sasha\wed-15080043.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/nastya-and-sasha/wed-15080047.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\nastya-and-sasha\wed-15080047.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/nastya-and-sasha/wed-15080052.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\nastya-and-sasha\wed-15080052.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ruslan-and-aigul/0000000010.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ruslan-and-aigul\0000000010.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ruslan-and-aigul/0000000051.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ruslan-and-aigul\0000000051.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ruslan-and-aigul/0000000064.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ruslan-and-aigul\0000000064.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ruslan-and-aigul/0000000066.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ruslan-and-aigul\0000000066.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ruslan-and-aigul/0000000071.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ruslan-and-aigul\0000000071.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/ruslan-and-aigul/0000000072.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\ruslan-and-aigul\0000000072.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/sofia-and-alexander/0000000012.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\sofia-and-alexander\0000000012.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/sofia-and-alexander/0000000013.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\sofia-and-alexander\0000000013.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/sofia-and-alexander/0000000021.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\sofia-and-alexander\0000000021.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/sofia-and-alexander/0000000031.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\sofia-and-alexander\0000000031.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/sofia-and-alexander/0000000034.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\sofia-and-alexander\0000000034.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/sofia-and-alexander/0000000035.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\sofia-and-alexander\0000000035.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/stepan-and-yulia/001d5a3587.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\stepan-and-yulia\001d5a3587.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/stepan-and-yulia/001d5a3623.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\stepan-and-yulia\001d5a3623.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/stepan-and-yulia/001d5a3672.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\stepan-and-yulia\001d5a3672.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/stepan-and-yulia/001d5a3703.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\stepan-and-yulia\001d5a3703.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/stepan-and-yulia/001d5a3720.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\stepan-and-yulia\001d5a3720.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/stepan-and-yulia/001d5a3772.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\stepan-and-yulia\001d5a3772.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/vika-and-igor/00000001-7.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\vika-and-igor\00000001-7.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/vika-and-igor/00000001-9.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\vika-and-igor\00000001-9.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/vika-and-igor/0000001-17.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\vika-and-igor\0000001-17.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/vika-and-igor/0000001-31.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\vika-and-igor\0000001-31.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/vika-and-igor/0000001-38.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\vika-and-igor\0000001-38.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/vika-and-igor/0000001-46.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\vika-and-igor\0000001-46.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/vika-and-victor/svad-ba-001.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\vika-and-victor\svad-ba-001.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/vika-and-victor/svad-ba-005.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\vika-and-victor\svad-ba-005.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/vika-and-victor/svad-ba-012.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\vika-and-victor\svad-ba-012.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/vika-and-victor/svad-ba-015.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\vika-and-victor\svad-ba-015.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/vika-and-victor/svad-ba-025.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\vika-and-victor\svad-ba-025.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/portfolio/vika-and-victor/svad-ba-033.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\portfolio\vika-and-victor\svad-ba-033.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/images/zy-circle1.png
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\images\zy-circle1.png
+Content Type: image/png
+
+Uri: https://perfectowedding.ru/manager/templates/default/js/index.js
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\manager\templates\default\js\index.js
+Content Type: application/javascript
+
+Uri: https://perfectowedding.ru/manager/templates/default/js/main.js
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\manager\templates\default\js\main.js
+Content Type: application/javascript
+
+Uri: https://perfectowedding.ru/manager/templates/default/js/plugins.js
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\manager\templates\default\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://perfectowedding.ru/manager/templates/default/js/vendor.js
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\manager\templates\default\js\vendor.js
+Content Type: application/javascript
+
+Uri: https://perfectowedding.ru/manifest.json
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\manifest.json
+Content Type: application/json
+
+Uri: https://perfectowedding.ru/portfolio
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/inessa-i-aleksandr
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\inessa-i-aleksandr.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/nastya-i-sasha
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\nastya-i-sasha.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/aleksandr-i-ekaterina
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\aleksandr-i-ekaterina.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/aleksandr-i-kristina
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\aleksandr-i-kristina.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/aleksandr-i-nadezhda
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\aleksandr-i-nadezhda.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/aleksandr-i-natalya
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\aleksandr-i-natalya.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/aleksandr-i-veronika
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\aleksandr-i-veronika.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/aleksej-i-alena
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\aleksej-i-alena.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/alena-i-ivan
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\alena-i-ivan.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/alisa-i-georgij
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\alisa-i-georgij.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/anastasiya-i-sergej
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\anastasiya-i-sergej.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/anna-i-ajnur
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\anna-i-ajnur.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/artyom-i-ekaterina
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\artyom-i-ekaterina.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/cofiya-i-aleksandr
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\cofiya-i-aleksandr.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/danil-i-irina
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\danil-i-irina.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/darya-i-ilya
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\darya-i-ilya.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/darya-i-nikolaj
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\darya-i-nikolaj.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/denis-i-viktoriya
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\denis-i-viktoriya.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/dmitrij-i-anna
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\dmitrij-i-anna.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/dmitrij-i-olga
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\dmitrij-i-olga.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/egor-i-polina
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\egor-i-polina.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/ekaterina-i-gleb
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\ekaterina-i-gleb.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/ekaterina-i-konstantin
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\ekaterina-i-konstantin.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/evgenij-i-anastasiya
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\evgenij-i-anastasiya.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/inna-i-kostya
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\inna-i-kostya.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/kopiya-aleksandr-i-ekaterina
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\kopiya-aleksandr-i-ekaterina.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/kopiya-anton-i-aleksandra
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\kopiya-anton-i-aleksandra.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/kopiya-maksim-i-tatyana
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\kopiya-maksim-i-tatyana.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/kseniya-i-aleksej
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\kseniya-i-aleksej.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/mariya-i-aleksandr
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\mariya-i-aleksandr.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/nastya-i-maksim
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\nastya-i-maksim.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/ruslan-i-ajgul
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\ruslan-i-ajgul.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/ruslan-i-ksyusha
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\ruslan-i-ksyusha.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/stepan-i-yuliya
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\stepan-i-yuliya.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/viktoriya-i-igor
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\viktoriya-i-igor.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/viktoriya-i-viktor
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\viktoriya-i-viktor.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding/yulya-i-artur
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding\yulya-i-artur.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding?page=2
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding-1.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding?page=3
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding-2.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding?page=4
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding-3.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding?page=5
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding-4.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/wedding?page=6
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\wedding-5.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/portfolio/yulya-i-zhenya
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\portfolio\yulya-i-zhenya.html
+Content Type: text/html
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-107.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-107.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-18.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-18.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-212.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-212.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-224.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-224.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-71.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-71.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-88.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-88.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/2020aleksey-and-anastasiya/00img_3517.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\2020aleksey-and-anastasiya\00img_3517.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/2020aleksey-and-anastasiya/00img_4043.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\2020aleksey-and-anastasiya\00img_4043.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/2020aleksey-and-anastasiya/00img_5426.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\2020aleksey-and-anastasiya\00img_5426.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/2020aleksey-and-anastasiya/00img_5765.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\2020aleksey-and-anastasiya\00img_5765.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/2020aleksey-and-anastasiya/00img_5979.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\2020aleksey-and-anastasiya\00img_5979.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/2020aleksey-and-anastasiya/00img_7441.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\2020aleksey-and-anastasiya\00img_7441.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksander-and-mariya-2022/000img_109.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksander-and-mariya-2022\000img_109.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksander-and-mariya-2022/000img_122.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksander-and-mariya-2022\000img_122.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksander-and-mariya-2022/000img_196.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksander-and-mariya-2022\000img_196.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksander-and-mariya-2022/000img_291.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksander-and-mariya-2022\000img_291.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksander-and-mariya-2022/000img_586.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksander-and-mariya-2022\000img_586.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksander-and-mariya-2022/000img_642.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksander-and-mariya-2022\000img_642.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksander-and-natalya/00wed-5380.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksander-and-natalya\00wed-5380.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksander-and-natalya/00wed-5400.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksander-and-natalya\00wed-5400.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksander-and-natalya/00wed-5509.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksander-and-natalya\00wed-5509.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksander-and-natalya/00wed-5522.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksander-and-natalya\00wed-5522.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksander-and-natalya/00wed-5631.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksander-and-natalya\00wed-5631.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksander-and-natalya/00wed-5824.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksander-and-natalya\00wed-5824.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksandr-and-ekaterina/0000000054.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksandr-and-ekaterina\0000000054.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksandr-and-ekaterina/0000000145.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksandr-and-ekaterina\0000000145.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksandr-and-ekaterina/0000000237.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksandr-and-ekaterina\0000000237.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksandr-and-ekaterina/0000000241.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksandr-and-ekaterina\0000000241.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksandr-and-ekaterina/0000000683.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksandr-and-ekaterina\0000000683.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksandr-and-ekaterina/0000000762.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksandr-and-ekaterina\0000000762.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksandr-and-kristina/0000000020.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksandr-and-kristina\0000000020.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksandr-and-kristina/0000000106.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksandr-and-kristina\0000000106.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksandr-and-kristina/0000000107.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksandr-and-kristina\0000000107.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksandr-and-kristina/0000000249.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksandr-and-kristina\0000000249.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksandr-and-kristina/0000000503.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksandr-and-kristina\0000000503.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksandr-and-kristina/0000000831.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksandr-and-kristina\0000000831.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksey-and-kseniya/00000003-5.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksey-and-kseniya\00000003-5.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksey-and-kseniya/0000003-45.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksey-and-kseniya\0000003-45.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksey-and-kseniya/000003-203.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksey-and-kseniya\000003-203.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksey-and-kseniya/000005-361.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksey-and-kseniya\000005-361.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksey-and-kseniya/00005-1000.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksey-and-kseniya\00005-1000.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/aleksey-and-kseniya/00005-1153.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\aleksey-and-kseniya\00005-1153.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alena-and-ivan/alena-ivan_wedding-0005.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alena-and-ivan\alena-ivan_wedding-0005.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alena-and-ivan/alena-ivan_wedding-0023.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alena-and-ivan\alena-ivan_wedding-0023.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alena-and-ivan/alena-ivan_wedding-0041.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alena-and-ivan\alena-ivan_wedding-0041.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alena-and-ivan/alena-ivan_wedding-0116.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alena-and-ivan\alena-ivan_wedding-0116.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alena-and-ivan/alena-ivan_wedding-0119.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alena-and-ivan\alena-ivan_wedding-0119.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alena-and-ivan/alena-ivan_wedding-0174.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alena-and-ivan\alena-ivan_wedding-0174.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alena-and-kirill/lr_2021-08-20_alexche-112.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alena-and-kirill\lr_2021-08-20_alexche-112.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alena-and-kirill/lr_2021-08-20_alexche-197.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alena-and-kirill\lr_2021-08-20_alexche-197.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alena-and-kirill/lr_2021-08-20_alexche-219.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alena-and-kirill\lr_2021-08-20_alexche-219.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alena-and-kirill/lr_2021-08-20_alexche-248.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alena-and-kirill\lr_2021-08-20_alexche-248.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alena-and-kirill/lr_2021-08-20_alexche-305.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alena-and-kirill\lr_2021-08-20_alexche-305.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alena-and-kirill/lr_2021-08-20_alexche-531.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alena-and-kirill\lr_2021-08-20_alexche-531.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexander-and-nadya/wedding-20180908-002.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexander-and-nadya\wedding-20180908-002.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexander-and-nadya/wedding-20180908-021.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexander-and-nadya\wedding-20180908-021.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexander-and-nadya/wedding-20180908-030.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexander-and-nadya\wedding-20180908-030.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexander-and-nadya/wedding-20180908-079.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexander-and-nadya\wedding-20180908-079.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexander-and-nadya/wedding-20180908-103.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexander-and-nadya\wedding-20180908-103.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexander-and-nadya/wedding-20180908-106.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexander-and-nadya\wedding-20180908-106.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexander-and-veronika/v-a_for-web-27.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexander-and-veronika\v-a_for-web-27.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexander-and-veronika/v-a_for-web-65.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexander-and-veronika\v-a_for-web-65.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexander-and-veronika/v-a_for-web-67.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexander-and-veronika\v-a_for-web-67.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexander-and-veronika/v-a_for-web-81.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexander-and-veronika\v-a_for-web-81.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexander-and-veronika/v-a_for-web-85.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexander-and-veronika\v-a_for-web-85.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexander-and-veronika/wedding-day-v-a-337.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexander-and-veronika\wedding-day-v-a-337.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexey-and-alena/0000w-6266.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexey-and-alena\0000w-6266.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexey-and-alena/0000w-6335.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexey-and-alena\0000w-6335.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexey-and-alena/0000w-6522.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexey-and-alena\0000w-6522.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexey-and-alena/0000w-6531.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexey-and-alena\0000w-6531.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexey-and-alena/0000w-6582.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexey-and-alena\0000w-6582.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alexey-and-alena/0000w-6586.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alexey-and-alena\0000w-6586.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alina-and-sasha-2022/00gv9b2283.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alina-and-sasha-2022\00gv9b2283.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alina-and-sasha-2022/00gv9b2526.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alina-and-sasha-2022\00gv9b2526.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alina-and-sasha-2022/00gv9b2712.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alina-and-sasha-2022\00gv9b2712.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alina-and-sasha-2022/00gv9b9218.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alina-and-sasha-2022\00gv9b9218.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alina-and-sasha-2022/00gv9b9451.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alina-and-sasha-2022\00gv9b9451.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alina-and-sasha-2022/00gv9b9750.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alina-and-sasha-2022\00gv9b9750.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alisa-and-georgiy/00wed-0048.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alisa-and-georgiy\00wed-0048.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alisa-and-georgiy/00wed-0073.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alisa-and-georgiy\00wed-0073.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alisa-and-georgiy/00wed-0279.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alisa-and-georgiy\00wed-0279.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alisa-and-georgiy/00wed-0302.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alisa-and-georgiy\00wed-0302.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alisa-and-georgiy/00wed-0376.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alisa-and-georgiy\00wed-0376.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/alisa-and-georgiy/00wed-0543.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\alisa-and-georgiy\00wed-0543.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anastasia-and-sergey/20190907_002.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anastasia-and-sergey\20190907_002.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anastasia-and-sergey/20190907_010.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anastasia-and-sergey\20190907_010.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anastasia-and-sergey/20190907_046.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anastasia-and-sergey\20190907_046.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anastasia-and-sergey/20190907_077.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anastasia-and-sergey\20190907_077.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anastasia-and-sergey/20190907_115.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anastasia-and-sergey\20190907_115.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anastasia-and-sergey/20190907_261.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anastasia-and-sergey\20190907_261.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/andrey-and-polina/0000002-62.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\andrey-and-polina\0000002-62.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/andrey-and-polina/0000002-97.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\andrey-and-polina\0000002-97.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/andrey-and-polina/0000003-16.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\andrey-and-polina\0000003-16.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/andrey-and-polina/000002-106.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\andrey-and-polina\000002-106.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/andrey-and-polina/000003-148.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\andrey-and-polina\000003-148.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/andrey-and-polina/000004-601.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\andrey-and-polina\000004-601.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anna-and-ainur/0000000001.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anna-and-ainur\0000000001.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anna-and-ainur/0000000008.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anna-and-ainur\0000000008.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anna-and-ainur/0000000163.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anna-and-ainur\0000000163.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anna-and-ainur/0000000206.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anna-and-ainur\0000000206.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anna-and-ainur/0000000256.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anna-and-ainur\0000000256.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anna-and-ainur/0000000452.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anna-and-ainur\0000000452.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anna-and-valeriy/0000000006.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anna-and-valeriy\0000000006.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anna-and-valeriy/0000000018.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anna-and-valeriy\0000000018.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anna-and-valeriy/0000000369.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anna-and-valeriy\0000000369.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anna-and-valeriy/0000000370.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anna-and-valeriy\0000000370.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anna-and-valeriy/0000000394.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anna-and-valeriy\0000000394.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anna-and-valeriy/0000000943.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anna-and-valeriy\0000000943.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anton-and-alexandra/photo-0068.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anton-and-alexandra\photo-0068.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anton-and-alexandra/photo-0159.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anton-and-alexandra\photo-0159.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anton-and-alexandra/photo-0243.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anton-and-alexandra\photo-0243.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anton-and-alexandra/photo-0314.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anton-and-alexandra\photo-0314.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anton-and-alexandra/photo-0550.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anton-and-alexandra\photo-0550.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/anton-and-alexandra/photo-0633.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\anton-and-alexandra\photo-0633.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0008.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0008.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0053.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0053.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0207.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0207.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0218.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0218.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0612.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0612.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0618.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0618.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/artem-and-liza/web_lavr0336.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\artem-and-liza\web_lavr0336.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/artem-and-liza/web_lavr0372.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\artem-and-liza\web_lavr0372.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/artem-and-liza/web_lavr0380.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\artem-and-liza\web_lavr0380.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/artem-and-liza/web_lavr0416.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\artem-and-liza\web_lavr0416.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/artem-and-liza/web_lavr0576.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\artem-and-liza\web_lavr0576.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/artem-and-liza/web_lavr1263.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\artem-and-liza\web_lavr1263.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/danil-and-irina/0000000008.06-102.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\danil-and-irina\0000000008.06-102.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/danil-and-irina/0000000008.06-116.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\danil-and-irina\0000000008.06-116.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/danil-and-irina/0000000008.06-120.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\danil-and-irina\0000000008.06-120.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/danil-and-irina/0000000008.06-243.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\danil-and-irina\0000000008.06-243.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/danil-and-irina/0000000008.06-412.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\danil-and-irina\0000000008.06-412.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/danil-and-irina/0000000008.06-55.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\danil-and-irina\0000000008.06-55.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dariya-and-ilya/0000000007.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dariya-and-ilya\0000000007.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dariya-and-ilya/0000000046.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dariya-and-ilya\0000000046.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dariya-and-ilya/0000000060.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dariya-and-ilya\0000000060.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dariya-and-ilya/0000000112.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dariya-and-ilya\0000000112.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dariya-and-ilya/0000000145.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dariya-and-ilya\0000000145.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dariya-and-ilya/0000000172.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dariya-and-ilya\0000000172.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/darya-and-nikolay/00000099-4.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\darya-and-nikolay\00000099-4.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/darya-and-nikolay/0000099-31.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\darya-and-nikolay\0000099-31.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/darya-and-nikolay/000099-106.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\darya-and-nikolay\000099-106.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/darya-and-nikolay/000099-580.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\darya-and-nikolay\000099-580.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/darya-and-nikolay/000099-942.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\darya-and-nikolay\000099-942.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/darya-and-nikolay/000099-966.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\darya-and-nikolay\000099-966.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/denis-and-victoria/00wed-5345.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\denis-and-victoria\00wed-5345.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/denis-and-victoria/00wed-5408.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\denis-and-victoria\00wed-5408.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/denis-and-victoria/00wed-5417.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\denis-and-victoria\00wed-5417.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/denis-and-victoria/00wed-5443.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\denis-and-victoria\00wed-5443.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/denis-and-victoria/00wed-5480.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\denis-and-victoria\00wed-5480.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/denis-and-victoria/00wed-5483.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\denis-and-victoria\00wed-5483.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dima-and-sasha-2022/2022-08-05-alexche-117.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dima-and-sasha-2022\2022-08-05-alexche-117.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dima-and-sasha-2022/2022-08-05-alexche-251.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dima-and-sasha-2022\2022-08-05-alexche-251.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dima-and-sasha-2022/2022-08-05-alexche-282.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dima-and-sasha-2022\2022-08-05-alexche-282.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dima-and-sasha-2022/2022-08-05-alexche-345.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dima-and-sasha-2022\2022-08-05-alexche-345.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dima-and-sasha-2022/2022-08-05-alexche-416.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dima-and-sasha-2022\2022-08-05-alexche-416.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dima-and-sasha-2022/2022-08-05-alexche-488.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dima-and-sasha-2022\2022-08-05-alexche-488.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dlya-dvoih-artem-and-oksana/0000000065.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dlya-dvoih-artem-and-oksana\0000000065.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dlya-dvoih-artem-and-oksana/0000000075.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dlya-dvoih-artem-and-oksana\0000000075.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dlya-dvoih-artem-and-oksana/0000000079.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dlya-dvoih-artem-and-oksana\0000000079.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dlya-dvoih-artem-and-oksana/0000000184.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dlya-dvoih-artem-and-oksana\0000000184.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dlya-dvoih-artem-and-oksana/0000000262.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dlya-dvoih-artem-and-oksana\0000000262.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dlya-dvoih-artem-and-oksana/0000000280.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dlya-dvoih-artem-and-oksana\0000000280.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dmitriy-and-anna/0000000040.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dmitriy-and-anna\0000000040.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dmitriy-and-anna/0000000041.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dmitriy-and-anna\0000000041.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dmitriy-and-anna/0000000043.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dmitriy-and-anna\0000000043.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dmitriy-and-anna/0000000139.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dmitriy-and-anna\0000000139.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dmitriy-and-anna/0000000640.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dmitriy-and-anna\0000000640.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dmitriy-and-anna/0000001048.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dmitriy-and-anna\0000001048.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dmitriy-and-olga/002pme4995.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dmitriy-and-olga\002pme4995.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dmitriy-and-olga/002pme5977.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dmitriy-and-olga\002pme5977.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dmitriy-and-olga/00dscf0253.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dmitriy-and-olga\00dscf0253.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dmitriy-and-olga/00dscf0631.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dmitriy-and-olga\00dscf0631.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dmitriy-and-olga/00dscf0757.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dmitriy-and-olga\00dscf0757.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/dmitriy-and-olga/00dscf2391.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\dmitriy-and-olga\00dscf2391.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/egor-and-polina/000wed0002.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\egor-and-polina\000wed0002.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/egor-and-polina/000wed0009.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\egor-and-polina\000wed0009.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/egor-and-polina/000wed0134.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\egor-and-polina\000wed0134.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/egor-and-polina/000wed0176.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\egor-and-polina\000wed0176.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/egor-and-polina/000wed0319.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\egor-and-polina\000wed0319.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/egor-and-polina/000wed0920.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\egor-and-polina\000wed0920.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ekaterina-and-gleb/00000001-4.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ekaterina-and-gleb\00000001-4.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ekaterina-and-gleb/000001-121.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ekaterina-and-gleb\000001-121.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ekaterina-and-gleb/000001-126.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ekaterina-and-gleb\000001-126.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ekaterina-and-gleb/000001-130.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ekaterina-and-gleb\000001-130.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ekaterina-and-gleb/000001-205.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ekaterina-and-gleb\000001-205.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ekaterina-and-gleb/000001-484.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ekaterina-and-gleb\000001-484.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ekaterina-and-konstantin/0000000008.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ekaterina-and-konstantin\0000000008.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ekaterina-and-konstantin/0000000044.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ekaterina-and-konstantin\0000000044.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ekaterina-and-konstantin/0000000099.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ekaterina-and-konstantin\0000000099.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ekaterina-and-konstantin/0000000314.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ekaterina-and-konstantin\0000000314.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ekaterina-and-konstantin/0000000500.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ekaterina-and-konstantin\0000000500.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ekaterina-and-konstantin/0000000639.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ekaterina-and-konstantin\0000000639.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/evgeniy-and-anastasiya/0000000150.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\evgeniy-and-anastasiya\0000000150.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/evgeniy-and-anastasiya/0000000173.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\evgeniy-and-anastasiya\0000000173.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/evgeniy-and-anastasiya/0000000211.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\evgeniy-and-anastasiya\0000000211.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/evgeniy-and-anastasiya/0000000278.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\evgeniy-and-anastasiya\0000000278.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/evgeniy-and-anastasiya/0000000284.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\evgeniy-and-anastasiya\0000000284.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/evgeniy-and-anastasiya/0000000734.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\evgeniy-and-anastasiya\0000000734.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/galina-and-victor/20210731_1021.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\galina-and-victor\20210731_1021.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/galina-and-victor/20210731_164.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\galina-and-victor\20210731_164.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/galina-and-victor/20210731_174.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\galina-and-victor\20210731_174.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/galina-and-victor/20210731_266.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\galina-and-victor\20210731_266.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/galina-and-victor/20210731_356.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\galina-and-victor\20210731_356.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/galina-and-victor/20210731_384.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\galina-and-victor\20210731_384.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/igor-and-ksusha/0000000004.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\igor-and-ksusha\0000000004.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/igor-and-ksusha/0000000016.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\igor-and-ksusha\0000000016.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/igor-and-ksusha/0000000152.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\igor-and-ksusha\0000000152.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/igor-and-ksusha/0000000218.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\igor-and-ksusha\0000000218.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/igor-and-ksusha/0000000451.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\igor-and-ksusha\0000000451.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/igor-and-ksusha/0000000746.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\igor-and-ksusha\0000000746.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/inessa-and-aleksandr/0000000086.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\inessa-and-aleksandr\0000000086.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/inessa-and-aleksandr/0000000127.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\inessa-and-aleksandr\0000000127.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/inessa-and-aleksandr/0000000183.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\inessa-and-aleksandr\0000000183.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/inessa-and-aleksandr/0000000213.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\inessa-and-aleksandr\0000000213.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/inessa-and-aleksandr/0000000428.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\inessa-and-aleksandr\0000000428.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/inessa-and-aleksandr/0000000581.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\inessa-and-aleksandr\0000000581.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/inna-and-kostya/i-k-wedding-12.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\inna-and-kostya\i-k-wedding-12.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/inna-and-kostya/i-k-wedding-231.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\inna-and-kostya\i-k-wedding-231.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/inna-and-kostya/i-k-wedding-233.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\inna-and-kostya\i-k-wedding-233.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/inna-and-kostya/i-k-wedding-419.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\inna-and-kostya\i-k-wedding-419.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/inna-and-kostya/i-k-wedding-745.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\inna-and-kostya\i-k-wedding-745.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/inna-and-kostya/i-k-wedding-98.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\inna-and-kostya\i-k-wedding-98.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/julia-and-artur/20191207_006.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\julia-and-artur\20191207_006.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/julia-and-artur/20191207_047.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\julia-and-artur\20191207_047.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/julia-and-artur/20191207_078.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\julia-and-artur\20191207_078.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/julia-and-artur/20191207_248.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\julia-and-artur\20191207_248.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/julia-and-artur/20191207_770.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\julia-and-artur\20191207_770.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/julia-and-artur/perfecto-wedding_-062.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\julia-and-artur\perfecto-wedding_-062.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/julya-and-genya/photo-00035.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\julya-and-genya\photo-00035.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/julya-and-genya/photo-00046.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\julya-and-genya\photo-00046.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/julya-and-genya/photo-00082.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\julya-and-genya\photo-00082.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/julya-and-genya/photo-00093.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\julya-and-genya\photo-00093.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/julya-and-genya/photo-00107.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\julya-and-genya\photo-00107.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/julya-and-genya/photo-00174.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\julya-and-genya\photo-00174.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/kris-and-kirill-2022/0000000002.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\kris-and-kirill-2022\0000000002.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/kris-and-kirill-2022/0000000117.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\kris-and-kirill-2022\0000000117.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/kris-and-kirill-2022/0000000447.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\kris-and-kirill-2022\0000000447.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/kris-and-kirill-2022/0000000623.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\kris-and-kirill-2022\0000000623.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/kris-and-kirill-2022/0000000687.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\kris-and-kirill-2022\0000000687.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/kris-and-kirill-2022/0000000732.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\kris-and-kirill-2022\0000000732.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/liza-and-kostya-2022/000img_453.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\liza-and-kostya-2022\000img_453.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/liza-and-kostya-2022/000img_838.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\liza-and-kostya-2022\000img_838.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/liza-and-kostya-2022/00cama7608.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\liza-and-kostya-2022\00cama7608.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/liza-and-kostya-2022/00img_2703.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\liza-and-kostya-2022\00img_2703.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/liza-and-kostya-2022/00img_3145.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\liza-and-kostya-2022\00img_3145.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/liza-and-kostya-2022/00img_9651.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\liza-and-kostya-2022\00img_9651.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/maksim-and-tatiana/00000m-t24.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\maksim-and-tatiana\00000m-t24.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/maksim-and-tatiana/00000m-t57.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\maksim-and-tatiana\00000m-t57.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/maksim-and-tatiana/0000m-t112.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\maksim-and-tatiana\0000m-t112.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/maksim-and-tatiana/0000m-t186.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\maksim-and-tatiana\0000m-t186.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/maksim-and-tatiana/000t-m-291.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\maksim-and-tatiana\000t-m-291.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/maksim-and-tatiana/00mtu_6023.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\maksim-and-tatiana\00mtu_6023.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/masha-and-sasha/0000001-74.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\masha-and-sasha\0000001-74.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/masha-and-sasha/000001-103.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\masha-and-sasha\000001-103.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/masha-and-sasha/000001-174.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\masha-and-sasha\000001-174.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/masha-and-sasha/000001-231.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\masha-and-sasha\000001-231.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/masha-and-sasha/000001-297.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\masha-and-sasha\000001-297.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/masha-and-sasha/000001-464.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\masha-and-sasha\000001-464.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/nastya-and-maksim/0000000002.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\nastya-and-maksim\0000000002.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/nastya-and-maksim/0000000293.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\nastya-and-maksim\0000000293.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/nastya-and-maksim/0000000606.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\nastya-and-maksim\0000000606.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/nastya-and-maksim/0000000736.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\nastya-and-maksim\0000000736.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/nastya-and-maksim/0000000749.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\nastya-and-maksim\0000000749.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/nastya-and-maksim/0000000764.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\nastya-and-maksim\0000000764.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/nastya-and-sasha/wed-15080096.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\nastya-and-sasha\wed-15080096.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/nastya-and-sasha/wed-15080141.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\nastya-and-sasha\wed-15080141.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/nastya-and-sasha/wed-15080167.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\nastya-and-sasha\wed-15080167.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/nastya-and-sasha/wed-15080210.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\nastya-and-sasha\wed-15080210.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/nastya-and-sasha/wed-15080300.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\nastya-and-sasha\wed-15080300.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/nastya-and-sasha/wed-15080498.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\nastya-and-sasha\wed-15080498.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/natalia-and-sergey-2022/pv20220716-111.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\natalia-and-sergey-2022\pv20220716-111.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/natalia-and-sergey-2022/pv20220716-135.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\natalia-and-sergey-2022\pv20220716-135.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/natalia-and-sergey-2022/pv20220716-138.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\natalia-and-sergey-2022\pv20220716-138.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/natalia-and-sergey-2022/pv20220716-154.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\natalia-and-sergey-2022\pv20220716-154.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/natalia-and-sergey-2022/pv20220716-160.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\natalia-and-sergey-2022\pv20220716-160.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/natalia-and-sergey-2022/pv20220716-164.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\natalia-and-sergey-2022\pv20220716-164.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ruslan-and-aigul/0000000071.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ruslan-and-aigul\0000000071.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ruslan-and-aigul/0000000140.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ruslan-and-aigul\0000000140.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ruslan-and-aigul/0000000293.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ruslan-and-aigul\0000000293.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ruslan-and-aigul/0000000486.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ruslan-and-aigul\0000000486.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ruslan-and-aigul/0000000581.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ruslan-and-aigul\0000000581.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/ruslan-and-aigul/0000001070.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\ruslan-and-aigul\0000001070.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/sofia-and-alexander/0000000031.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\sofia-and-alexander\0000000031.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/sofia-and-alexander/0000000053.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\sofia-and-alexander\0000000053.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/sofia-and-alexander/0000000090.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\sofia-and-alexander\0000000090.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/sofia-and-alexander/0000000107.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\sofia-and-alexander\0000000107.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/sofia-and-alexander/0000000160.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\sofia-and-alexander\0000000160.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/sofia-and-alexander/0000000192.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\sofia-and-alexander\0000000192.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/stepan-and-yulia/001d5a3720.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\stepan-and-yulia\001d5a3720.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/stepan-and-yulia/001d5a3796.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\stepan-and-yulia\001d5a3796.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/stepan-and-yulia/001d5a4958.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\stepan-and-yulia\001d5a4958.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/stepan-and-yulia/001d5a5281.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\stepan-and-yulia\001d5a5281.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/stepan-and-yulia/001d5a5705.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\stepan-and-yulia\001d5a5705.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/stepan-and-yulia/001d5a6319.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\stepan-and-yulia\001d5a6319.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/tatiana-and-pavel/web_lavr0191.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\tatiana-and-pavel\web_lavr0191.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/tatiana-and-pavel/web_lavr0407.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\tatiana-and-pavel\web_lavr0407.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/tatiana-and-pavel/web_lavr1139.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\tatiana-and-pavel\web_lavr1139.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/tatiana-and-pavel/web_lavr1196.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\tatiana-and-pavel\web_lavr1196.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/tatiana-and-pavel/web_lavr1267.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\tatiana-and-pavel\web_lavr1267.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/tatiana-and-pavel/web_lavr1269.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\tatiana-and-pavel\web_lavr1269.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/valeriya-and-alexamder-2022/000wed-714.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\valeriya-and-alexamder-2022\000wed-714.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/valeriya-and-alexamder-2022/000wed-856.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\valeriya-and-alexamder-2022\000wed-856.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/valeriya-and-alexamder-2022/000wed-962.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\valeriya-and-alexamder-2022\000wed-962.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/valeriya-and-alexamder-2022/00wed-1392.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\valeriya-and-alexamder-2022\00wed-1392.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/valeriya-and-alexamder-2022/00wed-1459.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\valeriya-and-alexamder-2022\00wed-1459.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/valeriya-and-alexamder-2022/00wed-1745.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\valeriya-and-alexamder-2022\00wed-1745.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/vika-and-igor/00000001-7.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\vika-and-igor\00000001-7.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/vika-and-igor/0000001-53.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\vika-and-igor\0000001-53.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/vika-and-igor/000001-238.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\vika-and-igor\000001-238.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/vika-and-igor/000001-247.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\vika-and-igor\000001-247.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/vika-and-igor/0000020-28.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\vika-and-igor\0000020-28.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/vika-and-igor/000020-144.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\vika-and-igor\000020-144.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/vika-and-victor/svad-ba-005.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\vika-and-victor\svad-ba-005.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/vika-and-victor/svad-ba-057.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\vika-and-victor\svad-ba-057.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/vika-and-victor/svad-ba-100.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\vika-and-victor\svad-ba-100.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/vika-and-victor/svad-ba-151.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\vika-and-victor\svad-ba-151.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/vika-and-victor/svad-ba-271.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\vika-and-victor\svad-ba-271.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/206x206/images/portfolio/vika-and-victor/svad-ba-673.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\206x206\images\portfolio\vika-and-victor\svad-ba-673.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/ьттмбом.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\ьттмбом.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/anastasia-and-alexandr.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\anastasia-and-alexandr.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/feed-backs/0088.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\feed-backs\0088.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/0000000027.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\0000000027.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/2/sashapotapkin.ruslan-ksenia.ekaterinburg-212.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\2\sashapotapkin.ruslan-ksenia.ekaterinburg-212.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/aleksander-and-natalya/00wed-5631.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\aleksander-and-natalya\00wed-5631.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/aleksandr-and-ekaterina/0000000089.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\aleksandr-and-ekaterina\0000000089.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/aleksandr-and-kristina/0000000496.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\aleksandr-and-kristina\0000000496.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/aleksey-and-kseniya/000005-827.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\aleksey-and-kseniya\000005-827.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/alena-and-ivan/alena-ivan_wedding-0043.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\alena-and-ivan\alena-ivan_wedding-0043.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/alexander-and-nadya/wedding-20180908-021.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\alexander-and-nadya\wedding-20180908-021.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/alexander-and-veronika/wedding-day-v-a-271.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\alexander-and-veronika\wedding-day-v-a-271.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/alisa-and-georgiy/00wed-0073.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\alisa-and-georgiy\00wed-0073.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/anastasia-and-sergey/20190907_244.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\anastasia-and-sergey\20190907_244.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/andrey-and-polina/0000002-62.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\andrey-and-polina\0000002-62.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/andrey-and-polina/000002-106.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\andrey-and-polina\000002-106.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/anna-and-valeriy/0000000309.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\anna-and-valeriy\0000000309.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/anton-and-alexandra/photo-0008.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\anton-and-alexandra\photo-0008.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/artem-and-ekaterina/weddingday_artem-kate-0019.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\artem-and-ekaterina\weddingday_artem-kate-0019.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/danil-and-irina/0000000008.06-55.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\danil-and-irina\0000000008.06-55.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/dariya-and-ilya/0000000023.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\dariya-and-ilya\0000000023.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/darya-and-nikolay/000099-838.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\darya-and-nikolay\000099-838.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/denis-and-victoria/00wed-5334.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\denis-and-victoria\00wed-5334.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/dmitriy-and-anna/0000000036.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\dmitriy-and-anna\0000000036.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/dmitriy-and-olga/002pme6238.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\dmitriy-and-olga\002pme6238.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/dmitriy-and-olga/00dscf2391.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\dmitriy-and-olga\00dscf2391.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/egor-and-polina/000wed0243.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\egor-and-polina\000wed0243.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/ekaterina-and-gleb/000001-126.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\ekaterina-and-gleb\000001-126.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/ekaterina-and-konstantin/0000000304.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\ekaterina-and-konstantin\0000000304.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/evgeniy-and-anastasiya/0000000239.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\evgeniy-and-anastasiya\0000000239.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/inessa-and-aleksandr/0000000428.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\inessa-and-aleksandr\0000000428.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/inna-and-kostya/i-k-wedding-13.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\inna-and-kostya\i-k-wedding-13.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/julia-and-artur/20191207_048.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\julia-and-artur\20191207_048.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/julya-and-genya/photo-00345.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\julya-and-genya\photo-00345.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/masha-and-sasha/000001-297.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\masha-and-sasha\000001-297.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/nastya-and-maksim/0000000279.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\nastya-and-maksim\0000000279.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/photo-dlya-shapki/aa-6310.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\photo-dlya-shapki\aa-6310.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/ruslan-and-aigul/0000001059.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\ruslan-and-aigul\0000001059.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/sofia-and-alexander/0000000681.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\sofia-and-alexander\0000000681.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/stepan-and-yulia/001d5a4851.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\stepan-and-yulia\001d5a4851.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/vika-and-igor/000001-282.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\vika-and-igor\000001-282.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x0/images/portfolio/vika-and-victor/svad-ba-057.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x0\images\portfolio\vika-and-victor\svad-ba-057.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x250/images/feed-backs/12.09.2020 Катя и Ваня.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x250\images\feed-backs\12.09.2020 Катя и Ваня.jpg
+Content Type: image/jpeg
+
+Uri: https://perfectowedding.ru/rs/250x250/images/feed-backs/9L4A1471.jpg
+File Name: D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0030Perfectowedding\perfectowedding.ru\rs\250x250\images\feed-backs\9L4A1471.jpg
+Content Type: image/jpeg
+
