@@ -6,13 +6,20 @@
 @media only screen and (max-width: 992px) {
   #kris-on-main {
     display: flex !important;
+    flex-direction: column;
+    height: auto;
+    padding-top: 50px;
+    margin-top: 30px;
+  }
+  #kris-on-main .citata {
+    position: relative;
   }
   #kris-on-main:after{
     content: '';
     display: block;
     width: 100%;
-    height: 100%;
-    max-height: 394px;
+    height: 394px;
+    max-height: 100%;
     margin-top: auto;
     margin-left: auto;
     margin-right: auto;
@@ -30,6 +37,7 @@
     background-repeat: no-repeat;
     background-position-x: left !important;
     background-size: cover;
+    margin-top: 30px;
   }
 }
 
@@ -91,18 +99,10 @@
 }
 
 .next-you__content a {
-  display: flex;
-  align-items: center;
   font-size: 18px;
-  fill: #287a6c;
-  font-weight: 600;
-  text-decoration-line: underline;
 }
 .next-you__content a svg {
-  flex: 0 0 auto;
-  width: 20px;
-  fill: #287a6c;
-  margin-left: 8px;
+  font-size: 20px;
 }
 
 .next-you__title {
@@ -117,7 +117,7 @@
   font-weight: 300;
   line-height: 1.2em;
   color: #020202;
-  margin-bottom: 28px;
+  margin-bottom: 14px;
 }
 
 @media screen and (max-width: 767.98px) {
@@ -189,7 +189,7 @@
 }
 
 .examples {
-  padding-top: 72px;
+  padding-top: 54px;
 }
 
 .examples__img-wrapper {
@@ -197,16 +197,16 @@
   position: absolute;
   display: flex;
   top: 0;
-  right: calc(var(--bs-gutter-x) * 1);
+  right: calc(var(--bs-gutter-x) * 0.5);
   z-index: 10;
-  margin-left: calc(var(--bs-gutter-x) * -1);
-  margin-right: calc(var(--bs-gutter-x) * -1);
+  margin-left: calc(var(--bs-gutter-x) * -0.5);
+  margin-right: calc(var(--bs-gutter-x) * -0.5);
   width: 100%;
 }
 
 .examples__img-wrap {
-  padding-left: var(--bs-gutter-x);
-  padding-right: var(--bs-gutter-x);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
 
   width: calc(50% + var(--bs-gutter-x));
   text-align: center;
@@ -215,7 +215,7 @@
 
 .examples__img-wrap img {
   width: 100%;
-  max-width: 155px;
+  max-width: 110px;
 }
 
 @media screen and (min-width: 767.98px)  {
@@ -252,10 +252,6 @@
   text-transform: initial;
   margin-top: 0;
 }
-
-.weddings-history h2 span {
-  font-weight: 700;
-}
 .weddings-history h2 a {
   font-weight: 700;
   color: #FFB2BA;
@@ -263,7 +259,7 @@
 
 .weddings-history__wrap {
   display: flex;
-  margin-right: -8px;
+  margin-right: -8px !important;
   max-width: 988px;
   margin-left: auto;
   margin-right: auto;
@@ -365,14 +361,16 @@
 
 .tippy-box {
   background-color: #fff;
-  padding: 16px 12px;
+  padding: 15px 12px;
   border: 2px solid #7F601A;
   font-size: 12px;
   font-style: italic;
   color: #000;
   margin: 0;
+  font-weight: 400 !important;
   position: relative;
   z-index: 1;
+  border-radius: 0;
 }
 
 .tippy-content {
@@ -460,18 +458,21 @@
   margin-left: auto;
   margin-right: auto;
   padding-left: 20px;
-  padding-right: 20px;
+  padding-right: 50px;
   font-weight: 600;
+  position: relative;
 }
 
 .footer .feedback-form button svg {
-  position: static;
-  flex: 0 0 auto;
   margin-left: 5px;
   transform: rotate(0);
   width: 20px;
   height: 16px;
-  margin-top: -2px;
+  /* margin-top: -2px; */
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 26%;
 }
 
 .address__phones {
@@ -513,15 +514,16 @@
   color: #fff;
 }
 
-.footer__btn {
+#call-me {
   font-size: 14px;
   font-weight: 600;
   color: #6E6F6A;
   background-color: #FFFFFF;
   border-radius: 40px;
-  padding: 6px 16px 6px;
+  padding: 8px 16px 8px;
   text-transform: uppercase;
   margin-left: 20px;
+  border: none;
 }
 
 .social {
@@ -583,6 +585,9 @@
 }
 
 @media only screen and (max-width: 600px) {
+  .weddings-history__wrap {
+    overflow: visible;
+  }
   .footer {
     padding-top: 73px;
     padding-bottom: 73px;
@@ -602,7 +607,7 @@
   .address__phones span  {
     display: block;
   }
-  .footer__btn {
+  #call-me {
     margin-left: 0;
   }
   .footer .feedback-form form {
