@@ -169,17 +169,11 @@
         <div class="col s12">
             <div class="examples">
                 <div class="examples__img-wrapper">
-                    <div class="examples__img-wrap">
+                    <div class="examples__img-wrap" id='myButton' data-tippy-content="Победитель WA в 2020 году">
                         <img src="../images/certificate-1.png" alt="certificate">
                     </div>
-                    <div class="examples__img-wrap">
-                        <div id="button" aria-describedby="tooltip">
-                            <img src="../images/certificate-2.png" alt="certificate">
-                        </div>
-                        <div id="tooltip" role="tooltip">
-                            <p>Победитель WA в 2020 году</p>
-                            <div id="arrow" data-popper-arrow></div>
-                        </div>
+                    <div class="examples__img-wrap" id='myButton' data-tippy-content="Победитель WA в 2020 году">
+                        <img src="../images/certificate-2.png" alt="certificate">
                     </div>
                 </div>
                 <div class="examples__sizer">
@@ -1191,45 +1185,12 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
  });
 </script>
 <script src="../assets/components/ajaxform/js/default.js"></script>
-<script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
+<script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js"></script>
+<script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js"></script>
 <script type="text/javascript">
-    const button = document.querySelector('#button');
-    const tooltip = document.querySelector('#tooltip');
-    // window.addEventListener('resize', () => {
-    //     if (window.matchMedia("(min-width: 992px)").matches) {
-    //         Popper.createPopper(button, tooltip, {
-    //             placement: 'right',
-    //         });
-    //     } else {
-    //         Popper.createPopper(button, tooltip, {
-    //             placement: 'auto',
-    //         });
-    //     }
-    // }, { passive: true });
-    Popper.createPopper(button, tooltip, {
-        placement: 'auto',
-    });
-    function show() {
-        tooltip.setAttribute('data-show', '');
-
-        // We need to tell Popper to update the tooltip position
-        // after we show the tooltip, otherwise it will be incorrect
-        popperInstance.update();
-    }
-
-    function hide() {
-        tooltip.removeAttribute('data-show');
-    }
-
-    const showEvents = ['mouseenter', 'focus'];
-    const hideEvents = ['mouseleave', 'blur'];
-
-    showEvents.forEach((event) => {
-        button.addEventListener(event, show);
-    });
-
-    hideEvents.forEach((event) => {
-        button.addEventListener(event, hide);
+    tippy('#myButton', {
+        arrow: true,
+        placement: 'right',
     });
 </script>
 </body>
