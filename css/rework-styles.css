@@ -557,6 +557,20 @@
   font-size: 13px;
 }
 
+.footer .feedback-form .input-field label {
+  font-weight: 300 !important;
+}
+
+.footer .feedback-form .input-field input {
+  border-bottom: 1px solid #BCBCBC;
+}
+
+@media only screen and (min-width: 1400px)  {
+  .footer .feedback-form .input-field label {
+    font-size: 18px;
+  }
+}
+
 @media only screen and (min-width: 992px) {
   .feedback-form form {
     --bs-gutter-x: 21px;
