@@ -173,6 +173,12 @@
   border: 0.1em solid #fff;
   width: 100%;
   max-width: 378px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.coffee-cup-form p {
+  font-weight: 300;
 }
 
 @media screen and (max-width: 767.98px) {
@@ -431,6 +437,14 @@
   color: #6E6F6A;
 }
 
+.input-field .policy-form {
+  font-weight: 300;
+}
+
+.input-field .policy-form a {
+  color: #82A77A;
+}
+
 .footer .feedback-form button[type='submit'] {
   width: 100%;
   max-width: 289px;
@@ -569,7 +583,7 @@
   .footer {
     padding-top: 73px;
     padding-bottom: 73px;
-    margin-top: 0;
+    margin-top: 30px;
     background-image: url('../images/footer-bg-sm-1.jpg');
   }
   .social {
