@@ -183,6 +183,7 @@
 
   width: calc(50% + var(--bs-gutter-x));
   text-align: center;
+  position: relative;
 }
 
 .examples__img-wrap img {
@@ -330,6 +331,64 @@
 .weddings-history__content a svg {
   flex: 0 0 auto;
   margin-left: 8px;
+}
+
+#tooltip {
+  display: none;
+  z-index: 1;
+  min-width: 189px;
+}
+
+#tooltip p {
+  background-color: #fff;
+  padding: 16px 12px;
+  border: 2px solid #7F601A;
+  font-size: 12px;
+  font-style: italic;
+  color: #000;
+  margin: 0;
+  position: relative;
+  z-index: 1;
+}
+
+#tooltip[data-show] {
+  display: block;
+}
+
+#arrow,
+#arrow::before {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background: inherit;
+  background-color: #7F601A;
+  z-index: -1;
+}
+
+#arrow {
+  visibility: hidden;
+}
+
+#arrow::before {
+  visibility: visible;
+  content: '';
+  transform: rotate(45deg);
+}
+
+#tooltip[data-popper-placement^='top'] > #arrow {
+  bottom: 0;
+}
+
+#tooltip[data-popper-placement^='bottom'] > #arrow {
+  top: 0;
+}
+
+#tooltip[data-popper-placement^='left'] > #arrow {
+  right: 0;
+}
+
+#tooltip[data-popper-placement^='right'] > #arrow {
+  left: 0;
 }
 
 .footer {
