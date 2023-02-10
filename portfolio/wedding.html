@@ -169,11 +169,15 @@
         <div class="col s12">
             <div class="examples">
                 <div class="examples__img-wrapper">
-                    <div class="examples__img-wrap" id='myButton' data-tippy-content="Победитель WA в 2020 году">
-                        <img src="../images/certificate-1.png" alt="certificate">
+                    <div class="examples__img-wrap">
+                        <div class="examples__tooltip" id='myButton' data-tippy-content="Победитель WA в 2020 году">
+                            <img src="../images/certificate-1.png" alt="certificate">
+                        </div>
                     </div>
-                    <div class="examples__img-wrap" id='myButton' data-tippy-content="Победитель WA в 2020 году">
-                        <img src="../images/certificate-2.png" alt="certificate">
+                    <div class="examples__img-wrap">
+                        <div class="examples__tooltip" id='myButton' data-tippy-content="Победитель WA в 2020 году">
+                            <img src="../images/certificate-2.png" alt="certificate">
+                        </div>
                     </div>
                 </div>
                 <div class="examples__sizer">
@@ -1188,9 +1192,25 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js"></script>
 <script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js"></script>
 <script type="text/javascript">
+    function checkIfEnoughSpace() {
+        let elementWidth = document.querySelector('.description').offsetWidth;
+        let windowWidth = window.innerWidth;
+        let sideWidth = (windowWidth - elementWidth) / 2;
+        let setPlacment = '';
+        if (sideWidth > 150) {
+            setPlacment = 'right';
+        };
+        if (sideWidth < 150) {
+            setPlacment = 'auto';
+        };
+        return setPlacment;
+    };
+    // window.addEventListener('resize', () => {
+    //     checkIfEnoughSpace();
+    // }, { passive: true });
     tippy('#myButton', {
         arrow: true,
-        placement: 'auto',
+        placement: checkIfEnoughSpace(),
     });
 </script>
 </body>

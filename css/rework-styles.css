@@ -212,6 +212,7 @@
   text-align: center;
   position: relative;
   display: flex;
+  justify-content: center;
 }
 
 .examples__img-wrap img {
