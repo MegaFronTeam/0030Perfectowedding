@@ -257,12 +257,15 @@
   color: #FFB2BA;
 }
 
-.weddings-history__wrap {
-  display: flex;
-  margin-right: -8px !important;
+.weddings-history__slider {
   max-width: 988px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.weddings-history__wrap {
+  display: flex;
+  margin-right: -8px !important;
 }
 
 .weddings-history__slide {
