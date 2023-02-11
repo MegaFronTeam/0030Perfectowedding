@@ -202,6 +202,7 @@
   margin-left: calc(var(--bs-gutter-x) * -0.5);
   margin-right: calc(var(--bs-gutter-x) * -0.5);
   width: 100%;
+  pointer-events: none;
 }
 
 .examples__img-wrap {
@@ -218,6 +219,7 @@
 .examples__img-wrap img {
   width: 100%;
   max-width: 90px;
+  pointer-events: all;
 }
 
 @media screen and (min-width: 767.98px)  {
