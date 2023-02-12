@@ -189,14 +189,14 @@
 }
 
 .examples {
-  padding-top: 54px;
+  padding-top: 15%;
 }
 
 .examples__img-wrapper {
   --bs-gutter-x: 11px;
   position: absolute;
   display: flex;
-  top: 0;
+  top: 5%;
   right: calc(var(--bs-gutter-x) * 0.5);
   z-index: 10;
   margin-left: calc(var(--bs-gutter-x) * -0.5);
@@ -218,7 +218,7 @@
 
 .examples__img-wrap img {
   width: 100%;
-  max-width: 90px;
+  max-width: 59%;
   pointer-events: all;
 }
 
