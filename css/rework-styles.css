@@ -41,6 +41,15 @@
   }
 }
 
+@media 
+  only screen and (min-width: 600px),
+  (-webkit-min-device-pixel-ratio: 2), 
+  (min-resolution: 192dpi) { 
+  #kris-on-main  {
+    background-image: url(../images/2x/index-bg-1-2x.png);
+  }
+}
+
 @media only screen and (max-width: 600px) {
   .hide-on-small-and-down {
     display: block !important;
@@ -160,6 +169,16 @@
   background-color: #030303;
 }
 
+@media 
+  only screen and (min-width: 600px),
+  (-webkit-min-device-pixel-ratio: 2), 
+  (min-resolution: 192dpi) { 
+  .coffee-cup-form   {
+    background-image: url(../images/2x/index-bg-2-2x.jpg);
+  }
+}
+
+
 .hide-on-med-and-down, .policy-form, .coffee-cup-form p, .coffee-cup-form .input-field label, .coffee-cup-form .input-field textarea, .coffee-cup-form .input-field input {
   color: #fff;
 }
@@ -245,6 +264,7 @@
 .weddings-history {
   padding-top: 50px;
   padding-bottom: 66.5px;
+  overflow: hidden;
 }
 
 .weddings-history h2 {
@@ -315,7 +335,7 @@
   opacity: .4;
 }
 
-.weddings-history__slide img {
+.weddings-history__slide picture {
   position: absolute;
   pointer-events: none;
   top: 0;
@@ -326,11 +346,17 @@
   z-index: -1;
 }
 
+.weddings-history__slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .weddings-history__content {
   position: absolute;
   top: 0;
   left: 50%;
-  width: calc(100% - 58px);
+  width: calc(100% - 20px);
   height: 100%;
   display: flex; 
   flex-direction: column;
@@ -345,7 +371,7 @@
   font-size: 20px;
   line-height: 1.2em;
   font-weight: 300;
-  margin-bottom: 27px;
+  margin-bottom: 13px;
   text-align: center;
   margin-top: 0;
   min-height: 72px;
@@ -362,6 +388,22 @@
   display: flex;
   align-items: center;
   margin-bottom: 52px;
+  position: relative;
+  /* text-decoration: underline; */
+}
+
+.weddings-history__content a span {
+  position: relative;
+}
+.weddings-history__content a span:after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 1px;
+  background-color: #fff;
+  left: 0;
+  bottom: 2px;
 }
 
 .weddings-history__content a svg {
@@ -413,6 +455,15 @@
   padding-top: 80px;
   padding-bottom: 60px;
   background-image: url('../images/footer-bg-1.jpg');
+}
+
+@media 
+  only screen and (min-width: 600px),
+  (-webkit-min-device-pixel-ratio: 2), 
+  (min-resolution: 192dpi) { 
+  .footer {
+    background-image: url(../images/2x/footer-bg-1-2x.jpg);
+  }
 }
 
 .footer .row {
@@ -468,21 +519,23 @@
   margin-left: auto;
   margin-right: auto;
   padding-left: 20px;
-  padding-right: 50px;
+  padding-right: 20px;
   font-weight: 600;
   position: relative;
 }
 
 .footer .feedback-form button svg {
-  margin-left: 5px;
-  transform: rotate(0);
-  width: 20px;
-  height: 16px;
+  flex: 0 0 auto;
+  margin-left: 10px;
+  transform: rotate(-90deg);
+  width: 50px;
+  height: 50px;
+  margin-right: -50px;
   /* margin-top: -2px; */
-  position: absolute;
-  top: 50%;
+  position: static;
+  /* top: 50%;
   transform: translateY(-50%);
-  right: 26%;
+  right: 26%; */
 }
 
 .address__phones {
@@ -641,6 +694,16 @@
   .footer .feedback-form h3 {
     font-size: 22px;
     margin-bottom: 5px;
+  }
+  .footer #arrow-up {
+    top: -94px;
+    right: 0;
+  }
+  .footer .feedback-form button[type='submit'] {
+    font-size: 18px;
+  }
+  .footer .feedback-form button[type='submit'] svg {
+    margin-right: 0;
   }
 }
 
