@@ -34,12 +34,15 @@
 
 @media only screen and (min-width: 600px) {
   #kris-on-main {
+    /* background: none; */
     background-image: url('../images/index-bg-1.png');
     background-repeat: no-repeat;
     background-position-x: left !important;
-    /* background-size: cover; */
+    background-size: cover;
+    /* background-size: initial; */
     /* background-size: 860px; */
     margin-top: 30px;
+    background-color: #0B0A0D;
   }
 }
 @media 
@@ -174,8 +177,11 @@
 }
 
 .coffee-cup-form {
+  background: none;
   background-image: url('../images/index-bg-2.jpg');
   background-color: #030303;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 @media 
@@ -487,10 +493,13 @@
 }
 
 .footer {
+  background: none;
   position: relative;
   padding-top: 80px;
   padding-bottom: 60px;
   background-image: url('../images/footer-bg-1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media 
