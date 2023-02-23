@@ -31,24 +31,33 @@
   }
 }
 
+
 @media only screen and (min-width: 600px) {
   #kris-on-main {
     background-image: url('../images/index-bg-1.png');
     background-repeat: no-repeat;
     background-position-x: left !important;
-    background-size: cover;
+    /* background-size: cover; */
+    /* background-size: 860px; */
     margin-top: 30px;
   }
 }
-
+@media 
+  (-webkit-min-device-pixel-ratio: 2), 
+  (min-resolution: 192dpi) { 
+  #kris-on-main:after  {
+    background-image: url(../images/2x/index-bg-sm-1-2x.png);
+  }
+}
 @media 
   only screen and (min-width: 600px),
   (-webkit-min-device-pixel-ratio: 2), 
   (min-resolution: 192dpi) { 
   #kris-on-main  {
-    background-image: url(../images/2x/index-bg-1-2x.png);
+    background-image: url('../images/2x/index-bg-1-2x.png');
   }
 }
+
 
 @media only screen and (max-width: 600px) {
   .hide-on-small-and-down {
@@ -241,7 +250,18 @@
   pointer-events: all;
 }
 
-@media screen and (min-width: 767.98px)  {
+.weddings-history h2 strong, .weddings-history h2 a span {
+  font-size: 34px;
+}
+
+.weddings-history h2 strong {
+  font-weight: 700;
+}
+
+@media screen and (max-width: 600px)  {
+  .weddings-history h2 strong {
+    display: block;
+  }
 }
 
 @media screen and (min-width: 600px)  {
@@ -258,6 +278,12 @@
   }
   .examples__img-wrap img {
     max-width: 55px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .examples__img-wrap img {
+    max-width: 4vw;
   }
 }
 
@@ -300,7 +326,7 @@
   position: relative;
   display: block;
   z-index: 1;
-  width: calc(100% / 1 - 8px);
+  width: calc(100% / 1 - 8px - 70px);
   margin-right: 8px;
 }
 
