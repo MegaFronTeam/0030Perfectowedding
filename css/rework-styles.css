@@ -304,10 +304,20 @@
   text-align: center;
   text-transform: initial;
   margin-top: 0;
+  line-height: calc(47/36);
 }
 .weddings-history h2 a {
   font-weight: 700;
   color: #FFB2BA;
+  font-size: 47px;
+  line-height: calc(47/36);
+}
+
+.weddings-history h2 a span {
+  line-height: calc(47/36);
+}
+.weddings-history h2 strong {
+  line-height: calc(47/36);
 }
 
 .weddings-history__slider {
