@@ -223,20 +223,22 @@
 }
 
 .examples {
-  padding-top: 15%;
+  /* padding-top: 15%; */
+  margin-top: 15%;
 }
 
 .examples__img-wrapper {
   --bs-gutter-x: 11px;
   position: absolute;
   display: flex;
-  top: 5%;
+  top: 0;
   right: calc(var(--bs-gutter-x) * 0.5);
   z-index: 10;
   margin-left: calc(var(--bs-gutter-x) * -0.5);
   margin-right: calc(var(--bs-gutter-x) * -0.5);
   width: 100%;
   pointer-events: none;
+  transform: translateY(-50%);
 }
 
 .examples__img-wrap {
@@ -252,7 +254,7 @@
 
 .examples__img-wrap img {
   width: 100%;
-  max-width: 59%;
+  max-width: var(--imgWidth);
   pointer-events: all;
 }
 
@@ -270,27 +272,54 @@
   }
 }
 
-@media screen and (min-width: 600px)  {
-  .examples {
-    padding-top: 0;
+:root {
+  --imgWidth: 59%;
+}
+@media screen and (min-width: 600px) {
+  :root {
+    --imgWidth: 8vw;
   }
-  .examples__img-wrapper {
-    width: auto;
-    top: -15px;
-    right: -21px;
-  }
-  .examples__img-wrap {
-    width: auto;
-  }
-  .examples__img-wrap img {
-    max-width: 55px;
+}
+@media screen and (min-width: 992px) {
+  :root {
+    --imgWidth: 55px;
   }
 }
 
 @media screen and (min-width: 1200px) {
-  .examples__img-wrap img {
-    max-width: 4vw;
+  :root {
+    --imgWidth: 4vw;
   }
+}
+
+@media screen and (min-width: 600px)  {
+  .examples {
+    margin-top: 0;
+  }
+  .examples__img-wrapper {
+    width: auto;
+    /* top: 0; */
+    right: calc(var(--imgWidth) / 2 * -1 + var(--bs-gutter-x) / 2);
+    /* transform: translateY(-50%); */
+  }
+  .examples__img-wrap {
+    width: auto;
+  }
+  /* .examples__img-wrap img {
+    max-width: 8vw;
+  } */
+}
+
+@media screen and (min-width: 992px) {
+  /* .examples__img-wrap img {
+    max-width: 55px;
+  } */
+}
+
+@media screen and (min-width: 1200px) {
+  /* .examples__img-wrap img {
+    max-width: 4vw;
+  } */
 }
 
 .weddings-history {
