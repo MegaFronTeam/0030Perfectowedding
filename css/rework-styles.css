@@ -353,7 +353,10 @@
 
 @media screen and (max-width: 576px)  {
   .weddings-history h2 {
-    width: 90%;
+    max-width: 9.4em;
+  }
+  .weddings-history h2 a {
+    display: block;
   }
 }
 
@@ -376,11 +379,11 @@
   line-height: calc(47/36);
 }
 
-@media screen and (max-width: 576px) {
+/* @media screen and (max-width: 576px) {
   .weddings-history h2 a small {
     display: block;
   }
-}
+} */
 
 .weddings-history__slider {
   max-width: 988px;
