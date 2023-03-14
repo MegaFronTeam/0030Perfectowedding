@@ -351,6 +351,12 @@
   }
 }
 
+@media screen and (max-width: 576px)  {
+  .weddings-history h2 {
+    width: 90%;
+  }
+}
+
 .weddings-history h2 a {
   font-weight: 700;
   color: #FFB2BA;
@@ -368,6 +374,12 @@
 }
 .weddings-history h2 strong {
   line-height: calc(47/36);
+}
+
+@media screen and (max-width: 576px) {
+  .weddings-history h2 a small {
+    display: block;
+  }
 }
 
 .weddings-history__slider {
@@ -456,7 +468,7 @@
   color: #fff;
   font-size: 20px;
   line-height: 1.2em;
-  font-weight: 300;
+  font-weight: 400;
   margin-bottom: 13px;
   text-align: center;
   margin-top: 0;
@@ -469,13 +481,24 @@
 
 }
 
+.weddings-history__content p .weddings-history__inner-content {
+  opacity: 0.7;
+  font-style: normal;
+}
+
 .weddings-history__content a {
   color: #fff;
   display: flex;
   align-items: center;
-  margin-bottom: 52px;
+  margin-bottom: 26px;
   position: relative;
   /* text-decoration: underline; */
+}
+
+@media screen and (min-width: 576px) {
+  .weddings-history__content a {
+    margin-bottom: 52px;
+  }
 }
 
 .weddings-history__content a span {
